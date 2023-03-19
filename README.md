@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Juan Ayala</h1>
 <h3 align="center">A Master's of Engineering graduate in applied mathematics, statistics and AI.</h3>
 
-- 🌱 I’m currently learning **PyTorch and NLP**
+- 🌱 I’m currently learning **JavaScript, PyTorch and NLP**
 
 - 💬 Ask me about **statistics and Python**
 
-- 📫 How to reach me **juan.ayala.banda@gmail.com**
+- 📫 How to reach me: **juan.ayala.banda@gmail.com**
 
 - 📄 Know about my experiences: [my resume](https://drive.google.com/file/d/1GK5_fw-MVxMlesNWkoOhrHecLQhWbiiv/view?usp=sharing)
 
